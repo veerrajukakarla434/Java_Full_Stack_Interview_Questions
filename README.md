@@ -32,4 +32,63 @@
 
 ## Java WebService 
 * R1 -> https://www.interviewbit.com/web-services-interview-questions/
-* R2 -> 
+* R2 -> https://java2blog.com/web-services-interview-questions/
+* R3 -> https://www.javatpoint.com/web-services-interview-questions
+
+## UntiTesting 
+
+* R1 -> https://www.interviewbit.com/junit-interview-questions/
+* R2 -> https://www.javatpoint.com/junit-interview-questions
+* R3 -> https://mindmajix.com/junit-interview-questions
+* R3 -> https://career.guru99.com/top-11-junit-interview-questions/
+
+## SDLC Methodologies 
+* R1 -> https://www.interviewbit.com/sdlc-interview-questions/
+* R2 -> https://www.guru99.com/sdlc-interview-questions.html
+* R3 -> https://www.techieclues.com/interview-qa/sdlc-interview-questions-and-answers-part-1
+
+## Spring Boot
+
+* R1-> https://www.simplilearn.com/spring-boot-interview-questions-article
+* R2-> https://www.java67.com/2018/06/top-15-spring-boot-interview-questions-answers-java-jee-programmers.html
+* R3 -> https://www.edureka.co/blog/interview-questions/spring-boot-interview-questions/
+
+## Spring Core
+
+* R1 -> https://www.edureka.co/blog/interview-questions/spring-interview-questions/
+* R2 -> https://mindmajix.com/java-spring-interview-questions
+* R3 -> https://www.javaguides.net/2019/07/spring-core-interview-questions-and-answers.html
+
+## Java Core
+
+* R1 -> https://www.edureka.co/blog/interview-questions/java-interview-questions/
+* R2 -> https://www.interviewbit.com/java-interview-questions/
+* R3 -> https://www.interviewbit.com/java-8-interview-questions/
+* R4 -> Java 8 https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
+* R6 -> Java Design Patterns https://www.javaguides.net/2019/01/java-design-patterns-interview-questions-answers.html
+* R7 -> Java collections https://www.edureka.co/blog/interview-questions/java-collections-interview-questions/
+
+## Java Script
+* R1 -> https://www.guru99.com/javascript-interview-questions-answers.html
+* R2 -> https://www.fullstack.cafe/blog/advanced-javascript-interview-questions
+* R3 -> https://www.javatpoint.com/javascript-interview-questions
+* R4-> JQuery https://www.edureka.co/blog/interview-questions/jquery-interview-questions/
+* R5-> https://career.guru99.com/top-50-ajax-interview-questions-answers/
+
+## ReactJS
+* R1-> https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+* R2 -> https://www.edureka.co/blog/interview-questions/react-interview-questions/
+* R3 -> https://mindmajix.com/reactjs-interview-questions
+
+## Angular 
+* R1 - > https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions
+* R2 -> https://www.interviewbit.com/angular-8-interview-questions/
+* R3 -> https://hackr.io/blog/angular-interview-questions
+* R4 -> https://www.fullstack.cafe/blog/angular-8-interview-questions
+
+
+
+
+
+
+
