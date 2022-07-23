@@ -91,6 +91,8 @@
 * R3 -> https://hackr.io/blog/angular-interview-questions
 * R4 -> https://www.fullstack.cafe/blog/angular-8-interview-questions
 
+## Hiberanate
+* R1 - > https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
 
 
 
