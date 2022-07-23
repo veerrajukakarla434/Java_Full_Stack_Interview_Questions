@@ -67,7 +67,12 @@
 * R4 -> Java 8 https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
 * R6 -> Java Design Patterns https://www.javaguides.net/2019/01/java-design-patterns-interview-questions-answers.html
 * R7 -> Java collections https://www.edureka.co/blog/interview-questions/java-collections-interview-questions/
-
+   * Java Design Pattern
+       * R1 -> https://www.javatpoint.com/java-design-pattern-interview-questions
+       * R2 -> https://www.guru99.com/java-design-patterns-interview-questions.html
+    * Java Strings
+      * R1 -> https://www.interviewbit.com/java-string-interview-questions/
+      * R2 -> https://javahungry.blogspot.com/2018/09/top-50-java-string-interview-questions-and-answers.html
 ## Java Script
 * R1 -> https://www.guru99.com/javascript-interview-questions-answers.html
 * R2 -> https://www.fullstack.cafe/blog/advanced-javascript-interview-questions
