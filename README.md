@@ -10,6 +10,14 @@
 * R3 -> https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
 * R4 -> https://www.javatpoint.com/microservices-interview-questions
 
+## Java Design Patterns
+
+* R1****** -> https://java-design-patterns.com/patterns/  
+* R2 -> https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial
+* R3 -> https://github.com/iluwatar/java-design-patterns
+* R4** -> https://howtodoinjava.com/gang-of-four-java-design-patterns/
+
+
 ## Kafka
 
 * R1 -> https://www.interviewbit.com/kafka-interview-questions/
