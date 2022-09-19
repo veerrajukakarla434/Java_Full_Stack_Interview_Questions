@@ -24,7 +24,7 @@
 * R3 -> https://www.freecodecamp.org/news/systems-design-for-interviews/
 * R4 -> https://www.simplilearn.com/system-design-interview-questions-article
 * R5 -> https://career.guru99.com/software-design-interview-questions/
-
+* R6 -> https://igotanoffer.com/blogs/tech/system-design-interviews
 
 
 ## Kafka
