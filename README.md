@@ -17,6 +17,15 @@
 * R3 -> https://github.com/iluwatar/java-design-patterns
 * R4** -> https://howtodoinjava.com/gang-of-four-java-design-patterns/
 
+## System Design
+
+* R1 -> https://www.interviewbit.com/system-design-interview-questions/
+* R2 -> https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+* R3 -> https://www.freecodecamp.org/news/systems-design-for-interviews/
+* R4 -> https://www.simplilearn.com/system-design-interview-questions-article
+* R5 -> https://career.guru99.com/software-design-interview-questions/
+
+
 
 ## Kafka
 
