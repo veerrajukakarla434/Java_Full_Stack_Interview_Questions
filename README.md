@@ -1,8 +1,5 @@
 # Java_Full_Stack_Interview_Questions
 
-
-
-
 ## MIcroservices
 
 * R1 -> https://www.interviewbit.com/microservices-interview-questions/
@@ -126,6 +123,11 @@
 * R -> https://www.javaguides.net/2019/01/hibernate-interview-questions-with-answers.html
 * R - > https://www.javaguides.net/2018/12/jpa-interview-questions-and-answers-for-beginners-and-experienced.html
 
+
+# Java - Java Lead Tipical interview IQ & A
+
+* Marker Interface in Java
+* https://www.javatpoint.com/marker-interface-in-java
 
 
 
