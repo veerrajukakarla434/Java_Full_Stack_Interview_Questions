@@ -90,6 +90,15 @@
     * Java Strings
       * R1 -> https://www.interviewbit.com/java-string-interview-questions/
       * R2 -> https://javahungry.blogspot.com/2018/09/top-50-java-string-interview-questions-and-answers.html
+  * **Java8**  
+      *  R3 -> https://www.interviewbit.com/java-8-interview-questions/
+      *  R4 -> Java 8 https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
+      *  R -> https://34codefactory.wordpress.com/2020/10/26/java-8-solving-real-time-queries-using-java-8-features-employee-management-system/
+      *  R -> https://javaconceptoftheday.com/java-8-stream-intermediate-and-terminal-operations/#:~:text=1)%20The%20main%20difference%20between,or%20may%20not%20return%20anything.&text=They%20just%20transform%20one%20stream%20to%20another%20stream.
+      
+      
+      
+      
 ## Java Script
 * R1 -> https://www.guru99.com/javascript-interview-questions-answers.html
 * R2 -> https://www.fullstack.cafe/blog/advanced-javascript-interview-questions
