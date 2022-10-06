@@ -91,6 +91,10 @@
       * R1 -> https://www.interviewbit.com/java-string-interview-questions/
       * R2 -> https://javahungry.blogspot.com/2018/09/top-50-java-string-interview-questions-and-answers.html
   * **Java8**  
+      * R -> https://www.javatpoint.com/java-8-features
+      * R -> https://www.javaguides.net/p/java-8.html
+      * R -> https://mkyong.com/tutorials/java-8-tutorials/
+      * R -> https://howtodoinjava.com/java-8-tutorial/
       *  R3 -> https://www.interviewbit.com/java-8-interview-questions/
       *  R4 -> Java 8 https://www.javaguides.net/2018/11/java-8-interview-questions-and-answers.html
       *  R -> https://34codefactory.wordpress.com/2020/10/26/java-8-solving-real-time-queries-using-java-8-features-employee-management-system/
