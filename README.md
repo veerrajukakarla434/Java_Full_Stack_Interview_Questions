@@ -119,6 +119,8 @@
 
 ## Hiberanate
 * R1 - > https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
+* R -> https://www.javaguides.net/2019/01/hibernate-interview-questions-with-answers.html
+* R - > https://www.javaguides.net/2018/12/jpa-interview-questions-and-answers-for-beginners-and-experienced.html
 
 
 
