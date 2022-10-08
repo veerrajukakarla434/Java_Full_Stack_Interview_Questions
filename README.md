@@ -123,6 +123,7 @@
 * R -> https://www.javaguides.net/2019/01/hibernate-interview-questions-with-answers.html
 * R - > https://www.javaguides.net/2018/12/jpa-interview-questions-and-answers-for-beginners-and-experienced.html
 * **H-Mappings OR Associations**
+* https://thorben-janssen.com/avoid-cascadetype-delete-many-assocations/#:~:text=removing%201%20entity.-,Remove%20More%20Than%20You%20Expected,database%20records%20than%20you%20expected.
   * **OneToOne**
    * https://www.appsdeveloperblog.com/one-to-one-mapping-hibernate-jpa-using-spring-boot-and-mysql/
    * https://www.bezkoder.com/jpa-one-to-one/
