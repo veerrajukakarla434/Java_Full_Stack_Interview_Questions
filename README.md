@@ -122,6 +122,19 @@
 * R1 - > https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
 * R -> https://www.javaguides.net/2019/01/hibernate-interview-questions-with-answers.html
 * R - > https://www.javaguides.net/2018/12/jpa-interview-questions-and-answers-for-beginners-and-experienced.html
+* **H-Mappings OR Associations**
+  * **OneToOne**
+   * https://www.appsdeveloperblog.com/one-to-one-mapping-hibernate-jpa-using-spring-boot-and-mysql/
+   * https://www.bezkoder.com/jpa-one-to-one/
+   
+  * **OneToMany**
+  * https://www.bezkoder.com/jpa-one-to-many/
+  * https://www.callicoder.com/hibernate-spring-boot-jpa-one-to-many-mapping-example/
+  * https://attacomsian.com/blog/spring-data-jpa-one-to-many-mapping
+  * https://www.appsdeveloperblog.com/one-to-many-mapping-hibernate-jpa-using-spring-boot-and-mysql/
+  * **ManyToMany**
+  * https://www.appsdeveloperblog.com/many-to-many-relationship-in-spring-boot-rest-jpa/
+  * https://howtodoinjava.com/hibernate/hibernate-many-to-many-mapping/
 
 
 # Java - Java Lead Tipical interview IQ & A
