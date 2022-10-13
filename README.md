@@ -142,6 +142,10 @@
 
 * Marker Interface in Java
 * https://www.javatpoint.com/marker-interface-in-java
+* https://www.toptal.com/java/interview-questions
+* https://www.buggybread.com/2015/02/java-j2ee-technical-lead-interview.html
+* https://www.fullstack.cafe/blog/senior-java-developer-interview-questions
+
 
 
 
