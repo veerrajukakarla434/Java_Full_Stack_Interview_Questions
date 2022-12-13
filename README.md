@@ -7,6 +7,15 @@
 * R3 -> https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
 * R4 -> https://www.javatpoint.com/microservices-interview-questions
 
+## Microservices Mehthodologies (12-factors)
+ * https://www.netsolutions.com/insights/12-factor-app-methodology/
+ * https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective
+ * https://www.geeksforgeeks.org/what-is-twelve-factor-app/
+ * https://reflectoring.io/spring-boot-12-factor-app/
+ * https://www.architect.io/blog/2022-06-30/microservices-orchestration-primer/
+ * https://www.accionlabs.com/microservices-orchestration-vs-choreography-what-to-prefer
+ * 
+
 ## Java Design Patterns
 
 * R1****** -> https://java-design-patterns.com/patterns/  
