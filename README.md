@@ -6,6 +6,11 @@
 * R2 -> https://www.guru99.com/microservices-interview-questions.html
 * R3 -> https://www.edureka.co/blog/interview-questions/microservices-interview-questions/
 * R4 -> https://www.javatpoint.com/microservices-interview-questions
+  * https://www.simform.com/blog/microservice-design-patterns/
+  * https://www.edureka.co/blog/microservices-design-patterns#DesignPatternsofMicroservices
+  * https://dzone.com/articles/design-patterns-for-microservices
+  * https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7nJHXujI0
+   
 
 ## Microservices Mehthodologies (12-factors)
  * https://www.netsolutions.com/insights/12-factor-app-methodology/
