@@ -11,6 +11,7 @@
   * https://www.edureka.co/blog/microservices-design-patterns#DesignPatternsofMicroservices
   * https://dzone.com/articles/design-patterns-for-microservices
   * https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7nJHXujI0
+  * Saga Patterns -> https://www.baeldung.com/cs/saga-pattern-microservices
    
 
 ## Microservices Mehthodologies (12-factors)
