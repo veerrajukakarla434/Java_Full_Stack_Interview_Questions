@@ -20,6 +20,7 @@ public static void main(String[] args) {
 	}
 	
 O/P : 
+
 54321
 5432
 543
@@ -43,13 +44,14 @@ public static void main(String[] args) {
 	}
 	
 O/P:
+
 * 
 * * 
 * * * 
 * * * * 
 * * * * * 
 
-* Pattern 2 -> Program to print **half pyramid** using numbers
+* Pattern 3 -> Program to print **half pyramid** using numbers
 
 	public static void main(String[] args) {
 	    int rows = 5;
@@ -64,11 +66,16 @@ O/P:
 	}
 	
 O/P:
+
 1 
 1 2 
 1 2 3 
 1 2 3 4 
 1 2 3 4 5 
+
+* Pattern 4 -> Program to print half pyramid using alphabets
+
+
 
 ```
 
