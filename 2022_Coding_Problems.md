@@ -6,7 +6,71 @@
 
 ![image](https://user-images.githubusercontent.com/40323661/199374708-612f3d0c-2f4d-4e54-996d-72e466933f10.png)
 
+```Java
+public static void main(String[] args) {
+		{
+			int row = 5;
+			for (int i = 1; i <=row; i++) {
+				for (int k = row; k >=i; k--) {
+					System.out.print(k);
+				}
+				System.out.println();
+			}
+		}
+	}
+	
+O/P : 
+54321
+5432
+543
+54
+5
+	
+```
 
+* Pattern 2 -> Program to print **half pyramid** using start (*)
+```Java
+public static void main(String[] args) {
+	    int rows = 5;
+
+	    for (int i = 1; i <= rows; ++i) {
+	      for (int j = 1; j <= i; ++j) {
+	        System.out.print("* ");
+	      }
+	      System.out.println();
+	    }
+	  }
+	}
+	
+O/P:
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+* Pattern 2 -> Program to print **half pyramid** using numbers
+
+	public static void main(String[] args) {
+	    int rows = 5;
+
+	    for (int i = 1; i <= rows; ++i) {
+	      for (int j = 1; j <= i; ++j) {
+	        System.out.print(j +" ");
+	      }
+	      System.out.println();
+	    }
+	  }
+	}
+	
+O/P:
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+
+```
 
 
 
