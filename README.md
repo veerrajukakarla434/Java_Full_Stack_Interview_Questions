@@ -22,6 +22,16 @@
  * https://www.architect.io/blog/2022-06-30/microservices-orchestration-primer/
  * https://www.accionlabs.com/microservices-orchestration-vs-choreography-what-to-prefer
  * 
+## SOLID Principles Java
+
+ * https://www.baeldung.com/solid-principles
+ * https://www.javatpoint.com/solid-principles-java
+ * https://www.educative.io/answers/what-are-the-solid-principles-in-java
+ * https://www.jrebel.com/blog/solid-principles-in-java
+ * https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
+ * https://www.interviewbit.com/blog/solid-principles-java/
+ 
+
 
 ## Java Design Patterns
 
@@ -162,6 +172,9 @@
 * https://www.buggybread.com/2015/02/java-j2ee-technical-lead-interview.html
 * https://www.fullstack.cafe/blog/senior-java-developer-interview-questions
 
+## Java Coding Problems
+
+* https://www.interviewbit.com/blog/serialize-and-deserialize-a-binary-tree/
 
 
 
