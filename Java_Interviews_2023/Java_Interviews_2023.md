@@ -1,7 +1,6 @@
 # Java Interview Challenges
 
 ## Topics
-* SQL
 * CoreJava-OOPS
 * CoreJava-Strings
 * CoreJava-Exceptions
