@@ -18,3 +18,7 @@
 
 
 
+##  Design Priciples
+* Ref : -> https://www.interviewbit.com/blog/solid-principles-java/
+ 
+
