@@ -14,8 +14,8 @@
 * Coding Problems
 * Tsting-Junits
 * Spring
-* Spring Boot
-* Design Patterns & Microservices
+* Spring Boot - Microservices
+* Design Patterns, Design Priciples and Microservices DesignPatterns 
 
 
 
