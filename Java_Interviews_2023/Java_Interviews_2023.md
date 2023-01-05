@@ -1,6 +1,21 @@
 # Java Interview Challenges
 
 ## Topics
+* SQL
+* CoreJava-OOPS
+* CoreJava-Strings
+* CoreJava-Exceptions
+* CoreJava-Collections
+* CoreJava-Threads
+* CoreJava-Java8-Features
+* CoreJava-JDBC
+* SQL 
+* JPA-Hiberanate
+* Coding Problems
+* Tsting-Junits
+* Spring
+* Spring Boot
+* Design Patterns & Microservices
 
-![image](https://user-images.githubusercontent.com/40323661/210680323-8fd30582-0d5b-4c0c-a329-6fa4e2311f5b.png)
+
 
