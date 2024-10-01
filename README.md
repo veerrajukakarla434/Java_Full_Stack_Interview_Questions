@@ -137,6 +137,13 @@
 * R1-> https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
 * R2 -> https://www.edureka.co/blog/interview-questions/react-interview-questions/
 * R3 -> https://mindmajix.com/reactjs-interview-questions
+* * https://www.javatpoint.com/react-interview-questions#ReactComponent
+* https://tms-outsource.com/blog/posts/react-interview-questions/
+* https://www.fullstack.cafe/blog/react-js-interview-questions
+* https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+* https://www.edureka.co/blog/interview-questions/react-interview-questions/
+* https://arc.dev/interview/reactjs-interview-questions-and-answers
+* https://www.toptal.com/react/interview-questions
 
 ## Angular 
 * R1 - > https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions
