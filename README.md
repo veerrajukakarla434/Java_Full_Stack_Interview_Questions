@@ -30,6 +30,7 @@
  * https://www.jrebel.com/blog/solid-principles-in-java
  * https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/
  * https://www.interviewbit.com/blog/solid-principles-java/
+ * https://www.freecodecamp.org/news/introduction-to-solid-principles/
  
 
 
