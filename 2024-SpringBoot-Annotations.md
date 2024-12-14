@@ -23,3 +23,16 @@
 ![image](https://github.com/user-attachments/assets/814ab6c6-5265-4e65-bf13-66b40d97d3aa)
 
 ![image](https://github.com/user-attachments/assets/372eadc8-54d1-4eb7-8d11-054de703101b)
+
+#### Organization — @Value vs. @ConfigurationProperties
+
+![image](https://github.com/user-attachments/assets/7122640f-9c19-4661-9f82-a0f87056fe2d)
+
+![image](https://github.com/user-attachments/assets/6d05e493-14a6-4a54-8769-07961cbc19df)
+
+![image](https://github.com/user-attachments/assets/b4520256-2a32-4441-b37f-a07fa0b1a15d)
+
+![image](https://github.com/user-attachments/assets/c0253502-861e-49c3-82c3-a87d1b405924)
+
+
+
