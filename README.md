@@ -62,6 +62,9 @@
 * R4 -> https://mindmajix.com/apache-kafka-interview-questions
 * R5 -> https://data-flair.training/blogs/kafka-interview-questions/
 * R6 -> https://www.projectpro.io/article/kafka-interview-questions-and-answers/438
+* Exp Kafka Interview Q -> https://www.geeksforgeeks.org/kafka-interview-questions/
+* Exp Kafka Interview Q -> https://www.simplilearn.com/kafka-interview-questions-and-answers-article
+* Exp Kafka Interview Q -> https://gist.github.com/bansalankit92/9414ef3614229cdca6053464fedf5038
 
 ## Databases
 * R1 -> https://intellipaat.com/blog/interview-question/sql-interview-questions/
