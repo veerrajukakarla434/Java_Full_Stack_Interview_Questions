@@ -53,6 +53,9 @@
 
 ## Kafka
 
+* Kafka Vs MQ -> https://medium.com/@prateekbansalind/kafka-vs-mq-a-comparative-analysis-of-two-powerful-messaging-systems-69d0438db18
+* Kafka Vs MQ -> https://hevodata.com/learn/mq-vs-kafka/
+* Kafka Vs MQ -> https://www.svix.com/resources/faq/kafka-vs-ibm-mq/
 * R1 -> https://www.interviewbit.com/kafka-interview-questions/
 * R2 -> https://www.javatpoint.com/kafka-interview-questions
 * R3 -> https://www.edureka.co/blog/interview-questions/top-apache-kafka-interview-questions-for-beginners/
