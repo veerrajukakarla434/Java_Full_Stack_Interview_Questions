@@ -191,6 +191,11 @@
 * https://www.interviewbit.com/blog/serialize-and-deserialize-a-binary-tree/
 
 
+##### Top High-Level Design(HLD) Interview Questions 2024
 
+* https://www.geeksforgeeks.org/top-high-level-designhld-interview-questions-2024/?ref=ml_lbp
+* https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk
+* https://kayv.medium.com/high-level-design-questions-for-2024-81f056a2211b
+* https://www.ambitionbox.com/skills/system-design-interview-questions
 
 
