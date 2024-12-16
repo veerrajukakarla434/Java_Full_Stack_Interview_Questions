@@ -151,12 +151,20 @@
 * https://www.edureka.co/blog/interview-questions/react-interview-questions/
 * https://arc.dev/interview/reactjs-interview-questions-and-answers
 * https://www.toptal.com/react/interview-questions
+* https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+* https://dev.to/said7388/top-10-react-js-interview-questions-48dc
+* ** https://github.com/sudheerj/reactjs-interview-questions#how-to-focus-an-input-element-on-page-load
+* https://www.turing.com/interview-questions/react-js
 
 ## Angular 
 * R1 - > https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions
 * R2 -> https://www.interviewbit.com/angular-8-interview-questions/
 * R3 -> https://hackr.io/blog/angular-interview-questions
 * R4 -> https://www.fullstack.cafe/blog/angular-8-interview-questions
+* https://www.simplilearn.com/tutorials/angular-tutorial/angular-interview-questions
+* https://www.turing.com/interview-questions/angular
+* https://medium.com/@rahul.a1739/75-angular-18-interview-questions-for-2024-8c5c31ec364e
+* https://www.scholarhat.com/tutorial/angular/angular-interview-questions-and-answers
 
 ## Hiberanate
 * R1 - > https://www.edureka.co/blog/interview-questions/hibernate-interview-questions/
