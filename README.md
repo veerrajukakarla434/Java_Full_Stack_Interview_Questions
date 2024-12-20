@@ -65,6 +65,7 @@
 * Exp Kafka Interview Q -> https://www.geeksforgeeks.org/kafka-interview-questions/
 * Exp Kafka Interview Q -> https://www.simplilearn.com/kafka-interview-questions-and-answers-article
 * Exp Kafka Interview Q -> https://gist.github.com/bansalankit92/9414ef3614229cdca6053464fedf5038
+* Kafka Architecture -> https://github.com/veerrajukakarla434/Java_Full_Stack_Interview_Questions/blob/main/2025-Kafka/kafka0001.md
 
 ## Databases
 * R1 -> https://intellipaat.com/blog/interview-question/sql-interview-questions/
