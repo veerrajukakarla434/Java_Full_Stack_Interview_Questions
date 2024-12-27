@@ -1,5 +1,15 @@
 # Java_Full_Stack_Interview_Questions
 
+####: Key words - definations:
+
+* **Latency :**  The time it takes for data to transfer across a network, or the delay in network communication. Networks with low latency have fast response times, while networks with high latency have a longer delay.
+* **Throughput  :** The average amount of data that can pass through a network in a given time period. It indicates the number of data packets that arrive at their destinations successfully and the data packet loss.
+
+* **what is fault tolerance in distributed system :**  Fault tolerance is a system's ability to keep operating even when one or more of its components fail. It's a key feature of distributed systems, which need to remain operational in the event of disasters or component failures.
+
+
+
+
 ## MIcroservices
 * **MIcroservices Design Patterns** https://microservices.io/patterns/data/saga.html
 * **What is, Architecture and Example** -> https://www.guru99.com/microservices-tutorial.html
