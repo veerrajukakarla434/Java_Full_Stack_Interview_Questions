@@ -12,4 +12,9 @@
 
 #### JVM
 * Ref-> https://github.com/veerrajukakarla434/vrk-core-java-programming/blob/master/Part1_CoreJava_Interview_Questions.md
-* 
+
+#### How Garbage Collector will work & Types of garbage collectors in Java
+
+* Ref -> https://www.ibm.com/topics/garbage-collection-java#:~:text=During%20each%20increment%2C%20the%20garbage,execution%20for%20an%20extended%20period.
+* Ref -> https://newrelic.com/blog/best-practices/java-garbage-collection
+* Ref -> https://www.geeksforgeeks.org/garbage-collection-java/
