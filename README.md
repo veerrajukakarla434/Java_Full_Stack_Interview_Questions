@@ -119,6 +119,7 @@
 
 ## Java Core
 
+* P1** -> https://github.com/veerrajukakarla434/vrk-core-java-programming/blob/master/Part1_CoreJava_Interview_Questions.md
 * R1 -> https://www.edureka.co/blog/interview-questions/java-interview-questions/
 * R2 -> https://www.interviewbit.com/java-interview-questions/
 * R3 -> https://www.interviewbit.com/java-8-interview-questions/
