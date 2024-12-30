@@ -18,3 +18,4 @@
 * Ref -> https://www.ibm.com/topics/garbage-collection-java#:~:text=During%20each%20increment%2C%20the%20garbage,execution%20for%20an%20extended%20period.
 * Ref -> https://newrelic.com/blog/best-practices/java-garbage-collection
 * Ref -> https://www.geeksforgeeks.org/garbage-collection-java/
+* Ref -> https://www.javatpoint.com/how-garbage-collection-works-in-java
