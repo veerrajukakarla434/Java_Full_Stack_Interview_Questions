@@ -1,9 +1,13 @@
 # Java_Full_Stack_Interview_Questions
 
 ####: Key words - definations:
-
-* **Latency :**  The time it takes for data to transfer across a network, or the delay in network communication. Networks with low latency have fast response times, while networks with high latency have a longer delay.
-* **Throughput  :** The average amount of data that can pass through a network in a given time period. It indicates the number of data packets that arrive at their destinations successfully and the data packet loss.
+* High throughput and low latency
+ 
+* **Latency :**   
+* The time it takes for data to transfer across a network, or the delay in network communication. Networks with low latency have fast response times, while networks with high latency have a longer delay.
+* **Throughput  :**  (Amount of data that can be transferred in a period of time)
+* The average amount of data that can pass through a network in a given time period. It indicates the number of data packets that arrive at their destinations successfully and the data packet loss.
+* In data transmission, network throughput is the amount of data moved successfully from one place to another in a given time period. Network throughput is typically measured in bits per second (bps), as in megabits per second (Mbps) or gigabits per second (Gbps).
 
 * **what is fault tolerance in distributed system :**  Fault tolerance is a system's ability to keep operating even when one or more of its components fail. It's a key feature of distributed systems, which need to remain operational in the event of disasters or component failures.
 
