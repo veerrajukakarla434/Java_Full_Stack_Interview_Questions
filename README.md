@@ -3,7 +3,7 @@
 ####: Key words - definations:
 * High throughput and low latency
  
-* **Latency :**   
+* **Latency :**  (The time dealy between a request and a response) 
 * The time it takes for data to transfer across a network, or the delay in network communication. Networks with low latency have fast response times, while networks with high latency have a longer delay.
 * **Throughput  :**  (Amount of data that can be transferred in a period of time)
 * The average amount of data that can pass through a network in a given time period. It indicates the number of data packets that arrive at their destinations successfully and the data packet loss.
