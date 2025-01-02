@@ -1,6 +1,6 @@
 # Java_Full_Stack_Interview_Questions
 
-####: Key words - definations:
+#### Key words - definations:
 * High throughput and low latency
  
 * **Latency :**  (The time dealy between a request and a response) 
