@@ -156,3 +156,11 @@ public DefaultJackson2JavaTypeMapper typeMapper() {
     return typeMapper;
 }
 ```
+
+![image](https://github.com/user-attachments/assets/6fbf32d1-a2c1-4e98-83f9-89760efe358d)
+
+![image](https://github.com/user-attachments/assets/e9d0fe2d-7317-4ec6-ace3-05228ad4193d)
+
+![image](https://github.com/user-attachments/assets/329a3382-caa0-4fbb-ab07-ec47c9933659)
+
+![image](https://github.com/user-attachments/assets/30a98401-8f75-436a-ba23-09a2cbf34ed0)
